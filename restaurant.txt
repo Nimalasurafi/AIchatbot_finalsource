@@ -1,0 +1,35 @@
+The restaurant name is  Nida 5 star hotel.
+it is luxury type ordering rooms  via chatbot is availabe.
+
+we have a total of 10 rooms, including 4 single bed rooms, 4 double bed rooms, and 2 family rooms.
+
+single bed rooms fees is 1000.
+
+double bed rooms fees is 2000.
+
+family roomsfees is 3500.
+
+any order for occasion is not available for via chatbot.
+
+if you wish to place an order for significant occasions such as weddings, birthdays, or parties,
+please note that orders are currently only accepted through direct inquiries.
+
+yes,food ordering also availabe here.
+
+breakfast menu : idly,string hoppers,thosai.
+
+idly price : 40.
+
+lunch menu : fried rice,chicken fried rice,chicken biriyani.
+
+dinner menu : fried rice,chicken fried rice.
+
+chicken biryani price : 1000.
+
+chicken fried rice price : 800.
+
+fried rice price : 400.
+
+
+
+
